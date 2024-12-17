@@ -1,0 +1,9 @@
+Person = dict(
+    person_age = 18
+    person_name = "Nikita"
+    person_surname = "Tagin"
+)
+Adress = dict(
+    living_in = "Russia"
+    city_contry = "Moscow"
+)

@@ -1,0 +1,11 @@
+[constants]
+name = "Nikita"
+surname = "Tagin"
+city="Moscow
+[Person]
+person_age = 18
+person_name = "$name$"
+person_surname = "$surname$"
+[Adress]
+living_in= "Russia"
+city_contry="$city$"

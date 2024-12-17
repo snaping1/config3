@@ -1,0 +1,9 @@
+[constants]
+app_name = "MyApp" # Имя приложения
+version = "1.0.0" # Версия приложения
+[settings]
+# Основные настройки
+theme = "dark" # Тема оформления
+timeout = 30 # Таймаут в секундах
+description = "$app_name$ v$version$" # Использование констант
+gg = [1,2,3,4]
