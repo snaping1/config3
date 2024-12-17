@@ -100,8 +100,8 @@ city_contry="$city$"
 ```plaintext
 Person = dict(
     person_age = 18
-    person_name = "Daniil"
-    person_surname = "Titov"
+    person_name = "Nikita"
+    person_surname = "Tagin"
 )
 Adress = dict(
     living_in = "Russia"
