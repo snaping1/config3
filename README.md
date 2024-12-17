@@ -82,8 +82,8 @@ settings = dict(
 2-ой Пример входных данных TOML:  
 ```toml
 [constants]
-name = "Daniil"
-surname = "Titov"
+name = "Nikita"
+surname = "Tagin"
 city="Moscow
 
 [Person]
